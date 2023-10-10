@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class Library projekt", "Class Library projekt\Class Library projekt.csproj", "{9AA98EFB-16FD-43E8-B6C2-A5D86BAF03D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classlib Rest API", "Classlib Rest API\Classlib Rest API.csproj", "{FF07DCC8-360F-4B24-95A1-9D16338958A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AA98EFB-16FD-43E8-B6C2-A5D86BAF03D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AA98EFB-16FD-43E8-B6C2-A5D86BAF03D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AA98EFB-16FD-43E8-B6C2-A5D86BAF03D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AA98EFB-16FD-43E8-B6C2-A5D86BAF03D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF07DCC8-360F-4B24-95A1-9D16338958A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF07DCC8-360F-4B24-95A1-9D16338958A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF07DCC8-360F-4B24-95A1-9D16338958A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF07DCC8-360F-4B24-95A1-9D16338958A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F86628A-52B7-470B-BD69-AA7D3AE68428}
+	EndGlobalSection
+EndGlobal
